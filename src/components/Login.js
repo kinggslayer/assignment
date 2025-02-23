@@ -1,4 +1,3 @@
-// components/Login.js
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import {
@@ -20,7 +19,6 @@ function Login() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Add authentication logic here
     navigate('/dashboard');
   };
 

@@ -1,4 +1,3 @@
-// components/Register.js
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import {
@@ -22,7 +21,6 @@ function Register() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Add registration logic here
     navigate('/login');
   };
 
