@@ -20,8 +20,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/course-management-system.git
-cd course-management-system
+git clone https://github.com/kinggslayer/assignment
+cd assignment
 ```
 
 2. Install dependencies:
